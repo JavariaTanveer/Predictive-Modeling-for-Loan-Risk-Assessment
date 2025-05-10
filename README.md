@@ -65,12 +65,3 @@ The dataset includes the following features:
 
 > Note: The model performs exceptionally well on healthy loans but has slightly lower performance on high-risk loans due to class imbalance.
 
----
-
-## Installation & Usage
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/credit-risk-classification.git
-cd credit-risk-classification
